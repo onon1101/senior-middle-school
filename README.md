@@ -404,9 +404,6 @@
 
 
 
-
-
-
 ## 然後呢 ( 10月~現在 )
 * 認識很多人
 * 畢業
@@ -414,6 +411,4 @@
 * 畢旅
 * 得名
 =======
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=onon1101&theme=graywhite)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=onon1101)
->>>>>>> d86dad38aecfc77950971d0e0fae78e7044f26d5
+
